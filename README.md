@@ -15,5 +15,7 @@
 <h1>Countinue</h1>
 <h5>First run tor in port 8000</h5>
 <ul><li><code>tor HTTPTunnelPort 8000</code></li></ul>
+<h5>Then in other session run the program</h5>
+<ul><li><code>python3 sms_bomber.py</code></li></ul>
 <h5>Then Enter your target number like (+989120000000)</h5>
 <h5>Program starts sending sms from 12 Api :)</h5>
