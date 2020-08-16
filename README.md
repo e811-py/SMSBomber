@@ -14,6 +14,6 @@
 <pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && sudo pip3 install requests && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber && python3 sms_bomber.py</code></pre>
 <h1>How to use</h1>
 <h5>First run tor in port 8000</h5>
-<h6><code>tor HTTPTunnelPort 8000</code></h6>
+<ul><li><h6><code>tor HTTPTunnelPort 8000</code></h6></li></ul>
 <h5>Then Enter your target number like (+989120000000)</h5>
 <h5>Program starts sending sms from 12 Api :)</h5>
