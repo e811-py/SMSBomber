@@ -12,9 +12,9 @@
   <li><code>sudo pip3 install -r requirements.txt</code></li>
 </ul>
 
-<h2>Single Command</h2>
+<h3>Single Command</h3>
 <pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber && sudo pip3 install -r requirements.txt</code></pre>
-<h3>Countinue</h3>
+<h2>Countinue</h2>
 <h5>First run tor in port 8000</h5>
 <ul><li><code>tor HTTPTunnelPort 8000</code></li></ul>
 <h5>Then in other session run the program</h5>
