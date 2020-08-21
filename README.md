@@ -34,12 +34,14 @@
      >> github.com/e811-py
       + Connected to 16 Apis
 
-        [1] Low (2 Api)
-        [2] Medium (8 Api) <Need license>
-        [3] Super (16 Api) <Need license>
+        [1] Start Bombing
 
+        [2] Dev
 
-[15:02:48]Choose Mood:</pre>
+        [0] Exit
+        
+
+[15:02:48]Choose Mood~></pre>
 <p><h1><b>Use in Linux</b></h1></p>
 <ul>
   <li><code>sudo apt-get update</code></li>
