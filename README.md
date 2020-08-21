@@ -7,9 +7,9 @@
   <li><code>sudo apt-get upgrade</code></li>
   <li><code>sudo apt-get install git python tor</code></li>
   <li><code>sudo apt-get install python3-pip</code></li>
-  <li><code>sudo pip3 install requests</code></li>
   <li><code>git clone https://github.com/e811-py/SMSBomber</code></li>
   <li><code>cd SMSBomber</code></li>
+  <li><code>sudo pip3 install -r requirements.txt</code></li>
 </ul>
 
 <h2>Single Command</h2>
