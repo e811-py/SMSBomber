@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Single Command</h2>
-<pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && sudo pip3 install requests && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber</code></pre>
+<pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber && sudo pip3 install -r requirements.txt</code></pre>
 <h1>Countinue</h1>
 <h5>First run tor in port 8000</h5>
 <ul><li><code>tor HTTPTunnelPort 8000</code></li></ul>
