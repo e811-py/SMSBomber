@@ -29,16 +29,16 @@
                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                      
                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&  
                         
-     >> t.me/e811_py
-     >> instagram.com/e811.py
-     >> github.com/e811-py
-      + Connected to 16 Apis
+                     >> t.me/e811_py
+                     >> instagram.com/e811.py
+                     >> github.com/e811-py
+                      + Connected to 16 Apis
 
-        [1] Start Bombing
+                          [1] Start Bombing
 
-        [2] Dev
+                          [2] Dev
 
-        [0] Exit
+                          [0] Exit
         
 
 [15:02:48]Choose Mood~></pre>
