@@ -14,13 +14,13 @@
 
 <h2>Single Command</h2>
 <pre><code>sudo apt-get update && sudo apt-get upgrade && sudo apt-get install git python tor && sudo apt-get install python3-pip && git clone https://github.com/e811-py/SMSBomber && cd SMSBomber && sudo pip3 install -r requirements.txt</code></pre>
-<h1>Countinue</h1>
+<h3>Countinue</h3>
 <h5>First run tor in port 8000</h5>
 <ul><li><code>tor HTTPTunnelPort 8000</code></li></ul>
 <h5>Then in other session run the program</h5>
 <ul><li><code>python3 SMSBomber.py</code></li></ul>
 <h5>Then Choose the mood</h5>
 <ul><li>[1] low (2 Api)</li><li>[2] medium (8 Api) |Need license|</li><li>[3] Super (16 Api) |Need license|</li></ul>
-<h6>if you want to buy license send me a pm in telegram t.me/e811-py</h6>
+<h6>if you want to buy license send me a pm in telegram t.me/e811_py</h6>
 <h5>Then Enter your target number like (+989120000000)</h5>
 <h5>Good Luck :)</h5>
