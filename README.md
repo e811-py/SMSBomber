@@ -63,7 +63,6 @@
 <h5>Then Choose the mood</h5>
 <ul><li>[1] low (2 Api)</li><li>[2] medium (8 Api) |Need license|</li><li>[3] Super (16 Api) |Need license|</li></ul>
 <h6>if you want to buy license send me a pm in telegram t.me/e811_py</h6>
-<h5>Then Enter your target number like (+989120000000)</h5>
 <h5>Good Luck :)</h5>
 
 <p><h1><b>Use in Android(Termux)</b></h1></p>
